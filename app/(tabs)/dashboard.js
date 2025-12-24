@@ -1,9 +1,9 @@
 import { Text, View } from 'react-native';
 
-export default function ModalScreen() {
+export default function Dashboard() {
   return (
     <View>
-      <Text>Modal Screen</Text>
+      <Text>Dashboard</Text>
     </View>
   );
 }
